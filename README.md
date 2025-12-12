@@ -30,7 +30,6 @@ python -m venv .venv
 pip install --upgrade pip
 pip install tensorflow matplotlib seaborn scikit-learn opendatasets
 ```
-
 ---
 
 ## Dataset
