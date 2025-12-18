@@ -1,6 +1,7 @@
 # gem_identifier_model
 
-This project trains a gemstone classifier via transfer learning in the notebook `gemora.ipynb`. The current workflow downloads a Kaggle dataset, builds an EfficientNetB0 model in TensorFlow, and fine-tunes it on training images.
+
+This project trains a gemstone classifier via transfer learning in the notebook `gemora.ipynb`. The current workflow downloads a Kaggle dataset, builds an EfficientNetB0 model in TensorFlow, and fine-tunes it on training images.(I train this in colab and after download this ipnb)
 
 ---
 
